@@ -34,7 +34,7 @@ public class HelloWorld extends HttpServlet {
 		PrintWriter pw = response.getWriter();
 		pw.println("<html>");
 		pw.println("<head><title>Hello World</title></head>");
-		pw.println("<body><h1>Hello World !</h1></body>");
+		pw.println("<body><h1>Hello World Master!</h1></body>");
 		pw.println("</html>");
 	}
 
